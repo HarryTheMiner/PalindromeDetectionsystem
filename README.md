@@ -1,4 +1,4 @@
-🔁 Palindrome Checker — Try It Yourself!
+ 🔁 Palindrome Checker — Try It Yourself!
 Welcome to your go-to Palindrome Application — a simple, fun, and interactive tool that instantly tells you if what you type is a palindrome. Whether it’s a word, phrase, or even a number, just enter it and see the magic unfold!
 
 🚀 What Makes It Cool?
