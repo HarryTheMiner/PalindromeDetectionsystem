@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Palindrome Checker Description</title>
+  
 </head>
 <body>
   <h2>🔁 Palindrome Checker — Try It Yourself!</h2>
